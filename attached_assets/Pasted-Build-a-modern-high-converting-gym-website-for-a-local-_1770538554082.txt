@@ -1,0 +1,183 @@
+Build a modern, high-converting gym website for a local Indian fitness business.
+
+Business Name: Suraj Wanjari Personal Trainer & Unisex Gym  
+Location: Kamal Chowk, Nagpur, Maharashtra, India  
+Target Audience: Local men & women age 16–45 who want fat loss, muscle gain, strength, and body transformation.
+
+IMPORTANT GOAL:
+This website must be designed for conversion (lead generation), not just design.
+Main actions users should take:
+- Call Now
+- WhatsApp Chat
+- Join Membership
+- Book Free Trial
+- Visit Gym
+
+Every section must psychologically push the visitor toward joining the gym.
+
+--------------------------------------------------
+
+WEBSITE STRUCTURE
+
+1. HERO SECTION (Conversion Focused)
+- Big headline: "Transform Your Body at Nagpur’s Most Trusted Gym"
+- Subheadline: Fat Loss | Muscle Gain | Personal Training | Beginner Friendly
+- CTA Buttons:
+  - Join Now
+  - Book Free Trial
+  - WhatsApp Us
+- Show rating: ⭐ 4.7 (1300+ reviews)
+- Show location badge: Kamal Chowk, Nagpur
+- Background gym banner image
+- Clean modern layout
+
+--------------------------------------------------
+
+2. TRUST / SOCIAL PROOF
+- Google rating style UI
+- Text: "1300+ Happy Members"
+- Text: "Clean Equipment & Friendly Trainers"
+- 3 realistic testimonials:
+  Example:
+  - "Best gym in Nagpur, trainers are very supportive and environment is motivating."
+  - "Clean gym, good equipment, and flexible timings. Highly recommended."
+  - "I lost 6kg in 2 months with their guidance. Amazing experience."
+- Before/After transformation image placeholders
+
+--------------------------------------------------
+
+3. SERVICES SECTION (Cards with icons)
+
+Create service cards:
+- Personal Training
+- Weight Loss Program
+- Muscle Building
+- Strength Training
+- Cardio & Fat Burn
+- Beginner Fitness Plan
+- Women Fitness Training
+
+Each card should include a small CTA button:
+"Start Your Fitness Journey"
+
+--------------------------------------------------
+
+4. PRICING SECTION (Indian Demo Pricing)
+
+Create modern pricing cards with highlight and CTA:
+
+Basic Membership
+₹999 / month
+- Gym Access
+- Cardio Access
+
+Standard Plan (Most Popular)
+₹1,499 / month
+- Gym Access
+- Basic Trainer Guidance
+- Diet Tips
+
+Premium Plan
+₹2,499 / month
+- Personal Trainer
+- Custom Diet Plan
+- Progress Tracking
+
+3 Month Offer
+₹3,999 (Save ₹1,000)
+
+Show:
+- "Limited Offer" tag
+- "Most Popular" badge on Standard Plan
+- CTA button: "Join Today"
+- "Free 1-Day Trial Available"
+
+--------------------------------------------------
+
+5. ABOUT SECTION
+
+Short trust-building content:
+- Experienced Trainers
+- Clean & Well Maintained Equipment
+- Friendly & Motivating Environment
+- Beginner Friendly Gym
+- Trusted by 1300+ Members
+- Serving since 2016
+
+--------------------------------------------------
+
+6. STRONG CALL TO ACTION STRIP
+
+Dark highlighted section:
+
+Headline:
+"Start Your Transformation Today"
+
+Buttons:
+- Call Now
+- WhatsApp
+- Get Free Trial
+
+Make this visually strong and attention grabbing.
+
+--------------------------------------------------
+
+7. CONTACT SECTION
+
+Show:
+- Address: Kamal Chowk, Nagpur, Maharashtra
+- Phone Call button
+- WhatsApp button
+- Google Maps embed placeholder
+- Gym timing: Open 6 AM – 11 PM
+
+--------------------------------------------------
+
+DESIGN REQUIREMENTS
+
+- Modern Gym Style (Dark + Red or Dark + Orange theme)
+- Fully Mobile Responsive
+- Fast loading
+- Clean fonts
+- Big CTA buttons
+- Conversion optimized layout
+- Sticky "Join Now" or "WhatsApp" button
+- Smooth scrolling
+- Simple animations
+- Professional real-business look (not template style)
+
+--------------------------------------------------
+
+EXTRA CONVERSION FEATURES (IMPORTANT)
+
+Add:
+- Floating WhatsApp Button
+- Sticky Join Now button
+- "Limited Offer" urgency tag
+- Trust badges: Clean Gym | Certified Trainer | 1300+ Reviews
+- Lead capture form (Name + Phone)
+- Scroll reveal animations
+
+--------------------------------------------------
+
+TECH REQUIREMENTS
+
+- Use HTML, CSS, and JavaScript (or React if better)
+- Fully responsive
+- Clean and readable code
+- SEO friendly structure
+- Fast performance
+- Easy to edit content later
+
+--------------------------------------------------
+
+FINAL OBJECTIVE
+
+The website must look like a real professional gym landing page that converts visitors into paying members.
+
+Focus on:
+- Trust
+- Simplicity
+- Strong Call To Action
+- Local Indian audience
+- Conversion psychology
