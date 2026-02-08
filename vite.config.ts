@@ -3,7 +3,8 @@ import react from "@vitejs/plugin-react";
 import path from "path";
 
 export default defineConfig({
-  root: "client",   // your frontend source folder
+  // Frontend source folder
+  root: "client",
 
   plugins: [react()],
 
@@ -16,7 +17,13 @@ export default defineConfig({
   },
 
   build: {
-    outDir: "../dist",     // build output at root /dist
+    // Output build in root/dist (for Cloudflare Pages)
+    outDir: "../dist",
     emptyOutDir: true,
+
+    // Force Vite to use client/index.html as entry
+    rollupOptions: {
+      input: path.resolve(__dirname, "client/index.html"),
+    },
   },
 });
